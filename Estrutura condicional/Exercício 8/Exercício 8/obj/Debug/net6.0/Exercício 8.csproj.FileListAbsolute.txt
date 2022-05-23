@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\bin\Debug\net6.0\Exercício 8.exe
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\bin\Debug\net6.0\Exercício 8.deps.json
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\bin\Debug\net6.0\Exercício 8.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\bin\Debug\net6.0\Exercício 8.dll
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\bin\Debug\net6.0\Exercício 8.pdb
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.dll
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\refint\Exercício 8.dll
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.pdb
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\Exercício 8.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Projetos C#\exercícios lógica em csharp\Estrutura condicional\Exercício 8\Exercício 8\obj\Debug\net6.0\ref\Exercício 8.dll
