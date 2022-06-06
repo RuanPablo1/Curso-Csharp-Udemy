@@ -1,0 +1,46 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Globalization;
+
+namespace nome_projeto {
+    internal class Program {
+
+        static void Main(string[] args) {
+
+            Console.WriteLine("Digite os valores de X e Y: ");
+            string[] valores = Console.ReadLine().Split(' ');
+            float X = float.Parse(valores[0], CultureInfo.InvariantCulture);
+            float Y = float.Parse(valores[1], CultureInfo.InvariantCulture);
+
+            while (X != 0 && Y != 0) {
+                if (X > 0 && Y > 0) {
+                    Console.WriteLine("\nO ponto está no quadrante 1!\n");
+                }
+                else
+
+                if (X < 0 && Y > 0) {
+                    Console.WriteLine("\nO ponto está no quadrante 2!\n");
+                }
+                else
+
+                if (X < 0 && Y < 0) {
+                    Console.WriteLine("\nO ponto está no quadrante 3!\n");
+                }
+
+                else {
+                    Console.WriteLine("\nO ponto está no quadrante 4!\n");
+                }
+                valores = Console.ReadLine().Split(' ');
+                X = float.Parse(valores[0], CultureInfo.InvariantCulture);
+                Y = float.Parse(valores[1], CultureInfo.InvariantCulture);
+            }
+        }
+    }
+}
+
+/* Escreva um programa para ler as coordenadas (X,Y) de uma quantidade indeterminada de pontos no sistema
+cartesiano. Para cada ponto escrever o quadrante a que ele pertence. O algoritmo será encerrado quando pelo
+menos uma de duas coordenadas for NULA (nesta situação sem escrever mensagem alguma). */
