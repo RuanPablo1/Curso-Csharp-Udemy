@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\bin\Debug\net6.0\Exercício 5.exe
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\bin\Debug\net6.0\Exercício 5.deps.json
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\bin\Debug\net6.0\Exercício 5.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\bin\Debug\net6.0\Exercício 5.dll
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\bin\Debug\net6.0\Exercício 5.pdb
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.dll
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\refint\Exercício 5.dll
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.pdb
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\Exercício 5.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Projetos C#\Exercícios\Introdução a POO\Exercício 5\Exercício 5\obj\Debug\net6.0\ref\Exercício 5.dll
